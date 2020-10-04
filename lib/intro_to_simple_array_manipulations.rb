@@ -5,4 +5,5 @@ end
 def using_insert(array, element)
   count = 0
   array.push(element[count].insert)
+  count += 1
 end
